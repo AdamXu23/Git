@@ -20,5 +20,13 @@ Previous page [**Git**](https://github.com/AdamXu23/Git)。
 ### Step 5
 1.  Click “**Finish**"
 *   ![](https://github.com/AdamXu23/Git/blob/main/Install/Image/Git_Install-05.jpg)
+### Step 6
+1.  Import commands to the terminal
+>       which git
+>       git --version
+2.  Check version message
+*   ![](https://github.com/AdamXu23/Git/blob/main/Install/Image/Git_Install-06.jpg)
+
+**Remark：If you see the above message, it means you have successfully installed**
 
 Previous page [**Git**](https://github.com/AdamXu23/Git)。
