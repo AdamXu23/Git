@@ -22,9 +22,12 @@ Previous page [**Repositories**](https://github.com/AdamXu23?tab=repositories)ã€
 >     cd ..
 >     
 *   ![](https://github.com/AdamXu23/Git/blob/main/Chapter3_Terminal/Image/cd.jpg)
->     cd ~/Documents/GitHub/Git
+>     cd ~/Documents/GitHub
 >     
-
+*   ![](https://github.com/AdamXu23/Git/blob/main/Chapter3_Terminal/Image/cd~Dcuments.jpg)
+>     pwd
+>     
+*   ![](https://github.com/AdamXu23/Git/blob/main/Chapter3_Terminal/Image/pwd.jpg)
 
 
 
